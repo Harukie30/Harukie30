@@ -66,14 +66,6 @@ src="https://vercel.com/vc-ap-vercel-marketing/_next/static/media/next-js-dark.0
         height="40"
       />
     </a>
-    <a href="https://www.mysql.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-        alt="mysql"
-        width="40"
-        height="40"
-      />
-    </a>
     <a href="https://www.w3.org/html/" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -106,17 +98,6 @@ src="https://vercel.com/vc-ap-vercel-marketing/_next/static/media/next-js-dark.0
         height="40"
       />
     </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-      style="text-decoration: none;" target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript"
-        width="40"
-        height="40"
-      />
     </a>
     <a
       href="https://www.typescriptlang.org/"
@@ -130,30 +111,10 @@ src="https://vercel.com/vc-ap-vercel-marketing/_next/static/media/next-js-dark.0
         height="40"
       />
     </a>
-    <a href="https://postman.com" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.cdnlogo.com/logos/p/20/postman.svg"
-        alt="postman"
-        width="40"
-        height="40"
-      />
-    </a>
     <a href="https://code.visualstudio.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"
         alt="visual studio"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.android.com/studio"
-      style="text-decoration: none;" target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"
-        alt="android studio"
         width="40"
         height="40"
       />
@@ -182,30 +143,6 @@ src="https://vercel.com/vc-ap-vercel-marketing/_next/static/media/next-js-dark.0
         height="40"
       />
     </a>
-    <a href="https://picsart.com/create" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://iconape.com/wp-content/files/ss/133529/png/picsart-icon-logo.png"
-        alt="picsart"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://firebase.google.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png"
-        alt="firebase"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://getbootstrap.com" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"
-        alt="bootstrap"
-        width="40"
-        height="40"
-      />
-    </a>
     <a href="https://tailwindcss.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
@@ -214,34 +151,10 @@ src="https://vercel.com/vc-ap-vercel-marketing/_next/static/media/next-js-dark.0
         height="40"
       />
     </a>
-    <a href="https://vuejs.org/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-        alt="vuejs"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://alpinejs.dev/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://cdn.worldvectorlogo.com/logos/alpinejs.svg"
-        alt="alpinejs"
-        width="40"
-        height="40"
-      />
-    </a>
     <a href="https://chatgpt.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://static.vecteezy.com/system/resources/previews/021/059/827/large_2x/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg"
         alt="vuejs"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.apachefriends.org/download.html" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg"
-        alt="xampp"
         width="40"
         height="40"
       />
@@ -270,26 +183,10 @@ src="https://vercel.com/vc-ap-vercel-marketing/_next/static/media/next-js-dark.0
       height="40"
     />
   </a>
-  <a href="https://www.docker.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-    <img
-      src="https://avatars.githubusercontent.com/u/5429470?s=280&v=4"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://github.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
     <img
       src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
       alt="github"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.postgresql.org/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-    <img
-      src="https://avatars.githubusercontent.com/u/177543?s=280&v=4"
-      alt="postgresql"
       width="40"
       height="40"
     />
