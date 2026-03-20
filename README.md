@@ -345,10 +345,10 @@ src="https://vercel.com/vc-ap-vercel-marketing/_next/static/media/next-js-dark.0
   </p>
 <p>
   &nbsp;<img
-    src="https://github-readme-stats-fork.vercel.app/api?username=allanjustine&show_icons=true&locale=en"
+    src="https://github-readme-stats-fork.vercel.app/api?username=Harukie30&show_icons=true&locale=en"
     alt="allanjustine"
   />
-  &nbsp;<img src="https://github-readme-stats-fork-two.vercel.app/api/top-langs/?username=allanjustine&layout=compact"
+  &nbsp;<img src="https://github-readme-stats-fork-two.vercel.app/api/top-langs/?username=Harukie30&layout=compact"
     alt="allanjustine"
   />
 </p>
