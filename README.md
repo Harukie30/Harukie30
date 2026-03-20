@@ -167,14 +167,6 @@ src="https://vercel.com/vc-ap-vercel-marketing/_next/static/media/next-js-dark.0
         height="40"
       />
     </a>
-    <a href="https://inertiajs.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://avatars.githubusercontent.com/u/47703742?s=280&v=4"
-        alt="inertia"
-        width="40"
-        height="40"
-      />
-    </a>
   <a href="https://www.prisma.io/" style="text-decoration: none;" target="_blank" rel="noreferrer">
     <img
       src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4"
