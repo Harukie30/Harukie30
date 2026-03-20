@@ -12,16 +12,16 @@
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=allanjustine&label=Profile%20views&color=0e75b6&style=flat"
-    alt="allanjustine"
+    src="https://komarev.com/ghpvc/?username=Harukie30label=Profile%20views&color=0e75b6&style=flat"
+    alt="Harukie30"
   />
 </p>
 
 <p align="left">
-  <a href="https://github-trophies.vercel.app/?username=allanjustine&theme=matrix"
+  <a href="https://github-trophies.vercel.app/?username=Harukie30&theme=matrix"
     ><img
-      src="https://github-trophies.vercel.app/?username=allanjustine&theme=matrix"
-      alt="allanjustine"
+      src="https://github-trophies.vercel.app/?username=Harukie30&theme=matrix"
+      alt="Harukie30"
        style="width: 100%;"
   /></a>
 </p>
