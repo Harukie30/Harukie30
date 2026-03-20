@@ -31,7 +31,7 @@
 ** 
 - ✉️ You can reach me on my email **[![Gmail](https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuukiabella410@gmail.com)**
 - 📁 About my Projects [![Github](https://img.shields.io/badge/Github-%23282C34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allanjustine)
-- 👑 Master In **Eating, Sleeping.**
+- 👑 Master In **Eating, Sleeping, Playing,**
 
 <h3 align="left">Connect with me: </h3>
 
