@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="" target="_blank" style="margin: 0 8px;">
-    <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" width="80" />
+    <img src="https://giphy.com/stickers/cat-vibing-BXjqytvu9bKzCUHdzz" width="80" />
   </a>
   <a href="https://github.com/Harukie30" target="_blank" style="margin: 0 8px;">
     <img src="https://cdn.pixabay.com/animation/2022/08/05/07/12/07-12-14-597_512.gif" width="120" />
