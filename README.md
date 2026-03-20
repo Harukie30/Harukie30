@@ -2,7 +2,7 @@
 <h3 align="center">A Front End Web Developer</h3>
 
 <div align="center">
-  <a href="https://allanjustine.github.io/Portfolio" target="_blank" style="margin: 0 8px;">
+  <a href="" target="_blank" style="margin: 0 8px;">
     <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" width="80" />
   </a>
   <a href="https://github.com/Harukie30" target="_blank" style="margin: 0 8px;">
