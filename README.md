@@ -42,10 +42,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://laravel.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
+    <a href="" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"
-        alt="laravel"
+        src=""
+        alt=""
         width="40"
         height="40"
       />
