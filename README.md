@@ -42,14 +42,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src=""
-        alt=""
-        width="40"
-        height="40"
-      />
-    </a>
     <a href="https://reactjs.org/" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -74,42 +66,10 @@ src="https://vercel.com/vc-ap-vercel-marketing/_next/static/media/next-js-dark.0
         height="40"
       />
     </a>
-    <a href="https://livewire.laravel.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original-wordmark.svg"
-        alt="livewire"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://spatie.be/docs/laravel-medialibrary/v11/converting-images/defining-conversions" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://avatars.githubusercontent.com/u/7535935?s=200&v=4"
-        alt="spatie"
-        width="40"
-        height="40"
-      />
-    </a>
     <a href="https://www.mysql.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
         alt="mysql"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://flutter.dev" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-        alt="flutter"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://developer.android.com" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-        alt="android"
         width="40"
         height="40"
       />
