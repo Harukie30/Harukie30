@@ -30,7 +30,7 @@
 - 💬 Ask me about **[![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.html.com) [![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/) [![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css) [![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://www.tailwindcss.com) [![React](https://img.shields.io/badge/React-%23282C34?style=for-the-badge&logo=react&logoColor=61DAFB)](https://legacy.reactjs.org/docs/getting-started.html) [![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/) 
 ** 
 - ✉️ You can reach me on my email **[![Gmail](https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuukiabella410@gmail.com)**
-- 📁 About my Projects [![Github](https://img.shields.io/badge/Github-%23282C34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allanjustine)
+- 📁 About my Projects [![Github](https://img.shields.io/badge/Github-%23282C34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harukie30)
 - 👑 Master In **Eating, Sleeping, Playing, Cooking, Driving.**
 
 <h3 align="left">Connect with me: </h3>
