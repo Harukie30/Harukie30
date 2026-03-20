@@ -18,7 +18,7 @@
 
 # 🚀 About Me
 
-```ts
+
 const amadeus = {
   role: "Frontend Developer",
   company: "SMCT Group of Companies",
@@ -26,9 +26,8 @@ const amadeus = {
   currentlyLearning: "Advanced Frontend Architecture",
   funFact: "Master in Eating, Sleeping, Playing, Cooking, Driving"
 }
-````
 
----
+
 
 # 🌐 Connect With Me
 
