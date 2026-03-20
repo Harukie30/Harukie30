@@ -82,14 +82,6 @@ src="https://vercel.com/vc-ap-vercel-marketing/_next/static/media/next-js-dark.0
         height="40"
       />
     </a>
-    <a href="https://dart.dev" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-        alt="dart"
-        width="40"
-        height="40"
-      />
-    </a>
     <a href="https://www.java.com" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
@@ -155,14 +147,6 @@ src="https://vercel.com/vc-ap-vercel-marketing/_next/static/media/next-js-dark.0
       <img
         src="https://static.vecteezy.com/system/resources/previews/021/059/827/large_2x/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg"
         alt="vuejs"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://fontawesome.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1v6TMElRDdDqPYcrbQVOFSGiaFnXRDIZF9Q&s"
-        alt="xampp"
         width="40"
         height="40"
       />
