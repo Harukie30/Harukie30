@@ -12,7 +12,7 @@
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=Harukie30label=Profile%20views&color=0e75b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=Harukie30&label=Profile%20views&color=0e75b6&style=flat"
     alt="Harukie30"
   />
 </p>
