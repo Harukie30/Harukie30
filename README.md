@@ -6,7 +6,7 @@
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXI0NGt3bTY0cjk1aGRpZ3ZpaXhjNHAxN21nZHo3ajZpZDU4MnY5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0luWy8p6oKImZt41tz/giphy.gif" width="120" />
   </a>
   <a href="https://github.com/Harukie30" target="_blank" style="margin: 0 8px;">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ2aHNjNWQwNmw5ZHJlN2RhY2F5djJpbnJnbmJiMzcybGdsdmNsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KeuCuOqgNkbWECwFwW/giphy.gif" width="150" />
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ2aHNjNWQwNmw5ZHJlN2RhY2F5djJpbnJnbmJiMzcybGdsdmNsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KeuCuOqgNkbWECwFwW/giphy.gif" width="180" />
   </a>
 </div>
 
