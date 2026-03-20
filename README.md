@@ -1,187 +1,98 @@
-<h1 align="center">Hi 👋, I'm Amadeus Mozart</h1>
-<h3 align="center">A Front End Web Developer</h3>
 
 <div align="center">
-  <a href="" target="_blank" style="margin: 0 8px;">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXdseTJkYzEzNXBhbWZva2o1bXk5OG8zcmNjc3YzbTlrcXlzMXp0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gQO4DsuTBkGgEC4HZI/giphy.gif" width="200" 
-  </a>
-  <a href="https://github.com/Harukie30" target="_blank" style="margin: 0 8px;">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGMwcjI5dmNyazg1MjgyZHdmYng3YjBmbDV6OTBvMDJ5aGtwdDF2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xdtCzdgj5zsN10sDEY/giphy.gif" width="200" />
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Amadeus%20Mozart&fontSize=45&fontAlignY=40&fontColor=ffffff" />
+
+# 👋 Hi, I'm Amadeus Mozart
+### Frontend Developer | React • Next.js • TypeScript
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Experiences;Frontend+Developer;React+%7C+Next.js+%7C+Tailwind+CSS;Always+Learning+Always+Improving" />
+
 </div>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=Harukie30&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Harukie30"
-  />
-</p>
+---
+
+## 🚀 About Me
+
+- 💼 Currently working at **SMCT Group of Companies**
+- 🌱 Focused on **Frontend Development & UI Engineering**
+- 💬 Ask me about **React, Next.js, Tailwind CSS, TypeScript**
+- 📫 Reach me at **yuukiabella410@gmail.com**
+- ⚡ Fun fact: **Master in Eating, Sleeping, Playing, Cooking, Driving**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github-trophies.vercel.app/?username=Harukie30&theme=matrix"
-    ><img
-      src="https://github-trophies.vercel.app/?username=Harukie30&theme=matrix"
-      alt="Harukie30"
-       style="width: 100%;"
-  /></a>
+<a href="YOUR_FACEBOOK_LINK">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yuukiabella410@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
-- 💼 Currently Working at **SMCT Group of Companies** 
-- 💬 Ask me about **[![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.html.com) [![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/) [![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css) [![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://www.tailwindcss.com) [![React](https://img.shields.io/badge/React-%23282C34?style=for-the-badge&logo=react&logoColor=61DAFB)](https://legacy.reactjs.org/docs/getting-started.html) [![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/) 
-** 
-- ✉️ You can reach me on my email **[![Gmail](https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuukiabella410@gmail.com)**
-- 📁 About my Projects [![Github](https://img.shields.io/badge/Github-%23282C34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harukie30)
-- 👑 Master In **Eating, Sleeping, Playing, Cooking, Driving.**
+---
 
-<h3 align="left">Connect with me: </h3>
+## 🛠 Tech Stack
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)]() [![Instagram](https://img.shields.io/badge/Instagram-%23C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/) [![Gmail](https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuukiabella410@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]() 
-
-
-<p align="left"></p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="[https://reactjs.org/](https://nextjs.org/)" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="reactjs"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://nextjs.org/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-src="https://vercel.com/vc-ap-vercel-marketing/_next/static/media/next-js-dark.04784322.svg?dpl=dpl_DjxjnN4qrFaV53aEZbBwrtukE5Ht"
-        alt="nextjs"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://reactnative.dev/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://imgs.search.brave.com/zx_IbVa0yF20wcYuB--9J6VKlYk3Us6sOC4hEYq_Xz0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy82/MmE3NGRlODIyMzM0/M2ZiYzIyMDdkMDEu/cG5n"
-        alt="inertia"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.w3.org/html/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="html5"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.w3schools.com/css/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        alt="css3"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.java.com" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-        alt="java"
-        width="40"
-        height="40"
-      />
-    </a>
-    </a>
-    <a
-      href="https://www.typescriptlang.org/"
-      style="text-decoration: none;" target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"
-        alt="typescript"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://code.visualstudio.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"
-        alt="visual studio"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://git-scm.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-        alt="git"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.photoshop.com/en" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"
-        alt="photoshop"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.canva.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg"
-        alt="canva"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://tailwindcss.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
-        alt="tailwindcss"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://chatgpt.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://static.vecteezy.com/system/resources/previews/021/059/827/large_2x/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg"
-        alt="vuejs"
-        width="40"
-        height="40"
-      />
-    </a>
-  <a href="https://www.prisma.io/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-    <img
-      src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4"
-      alt="prisma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://github.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-    <img
-      src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-      alt="github"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://ui.shadcn.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-    <img
-      src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4"
-      alt="shadcn"
-      width="40"
-      height="40"
-    />
-  </a>
-  </p>
-<p>
-  &nbsp;<img
-    src="https://github-readme-stats-fork.vercel.app/api?username=Harukie30&show_icons=true&locale=en"
-    alt="allanjustine"
-  />
-  &nbsp;<img src="https://github-readme-stats-fork-two.vercel.app/api/top-langs/?username=Harukie30&layout=compact"
-    alt="allanjustine"
-  />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,html,css,java,git,github,vscode,prisma,photoshop" />
 </p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harukie30&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harukie30&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Harukie30&theme=tokyonight&row=1&column=6&margin-w=15" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Project One
+Short description of your project here.
+
+### 🔹 Project Two
+Short description of your project here.
+
+### 🔹 Project Three
+Short description of your project here.
+
+---
+
+## 💡 Current Focus
+
+- Building scalable frontend applications  
+- Improving UI/UX systems  
+- Exploring advanced Next.js architecture  
+
+---
+
+<div align="center">
+
+### ✨ "The world changes for those who refuse to quit."
+
+</div>
+```
