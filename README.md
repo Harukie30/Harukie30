@@ -128,4 +128,4 @@ Modern responsive portfolio built using Next.js + Tailwind.
 ## ✨ "The world changes for those who refuse to quit."
 
 </div>
-```
+
