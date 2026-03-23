@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f0c29,50:302b63,100:24243e&text=Amadeus%20Mozart&fontSize=58&fontColor=00ffff&fontAlignY=38&animation=fadeIn&desc=Frontend%20Developer%20•%20Cyberpunk%20UI%20Builder&descAlignY=58&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f0c29,50:302b63,100:24243e&text=Amadeus%20Mozart&fontSize=58&fontColor=00ffff&fontAlignY=38&animation=fadeIn&desc=Frontend%20Developer%20UI%20Builder&descAlignY=58&descSize=20" />
 
 <br/>
 
