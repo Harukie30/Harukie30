@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&center=true&vCenter=true&width=850&color=00FFFF&lines=Building+Modern+Interfaces;React+•+Next.js+•+TypeScript;Cyberpunk+Frontend+Systems;Always+Learning+Always+Improving" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&center=true&vCenter=true&width=850&color=00FFFF&lines=Building+Modern+Interfaces;React+•+Next.js+•+TypeScript;Frontend+Systems;Always+Learning+Always+Improving" />
 
 <br/>
 
