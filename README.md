@@ -66,7 +66,7 @@ const amadeus = {
 
 <h2 align="center">🌙 Tokyo Night Frontend Journey</h2>
 
-<p align="center">
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━━━━━</p>
   <img src="https://img.shields.io/badge/Frontend-7aa2f7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/UI%2FUX-bb9af7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Creative_Code-7dcfff?style=for-the-badge" />
