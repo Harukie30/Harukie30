@@ -64,27 +64,35 @@ const amadeus = {
 
 ---
 
-## 🏆 Achievements — Frontend Edition
+## 🏆 Achievements 
 
 <p align="center">
-  <!-- Role & creative badges -->
-  <img src="https://img.shields.io/badge/Frontend-Developer-7aa2f7?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/UI%2FUX-Designer-bb9af7?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-  <img src="https://img.shields.io/badge/Creative_Code-7dcfff?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <!-- Role badges with accent colors -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 <p align="center">
-  <!-- Skill icons -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
+  <!-- Framework & tooling badges -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue-42B883?style=for-the-badge&logo=vue.js&logoColor=white" />
 </p>
 
 <p align="center">
-  <!-- Stats cards -->
+  <!-- Skill icons for quick glance -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vue,git,github,vscode" />
+</p>
+
+<p align="center">
+  <!-- Stats cards in Tokyo Night -->
   <img src="https://github-readme-stats.vercel.app/api?username=Harukie30&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harukie30&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" height="160" />
 </p>
-
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Harukie30&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
