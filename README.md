@@ -64,22 +64,27 @@ const amadeus = {
 
 ---
 
-<h2 align="center">🌙 Tokyo Night Frontend Journey</h2>
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━━━━━</p>
+## 🏆 Achievements
 
 <p align="center">
+  <!-- Tokyo Night-themed badges -->
   <img src="https://img.shields.io/badge/Frontend-7aa2f7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/UI%2FUX-bb9af7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Creative_Code-7dcfff?style=for-the-badge" />
 </p>
 
 <p align="center">
+  <
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vscode,git,github" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Harukie30&theme=tokyonight&hide_border=true" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Harukie30&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harukie30&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
+
+
 
 ---
 
