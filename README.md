@@ -65,7 +65,9 @@ const amadeus = {
 ---
 
 ## 🏆 Achievements
-
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hpcmowNTlzOG10NjV1M2gwa2g3aTY0MzB1eXNwbDNlcnc5bHNqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dUB9oUf9a4420PCrbc/giphy.gif" />
+</p>
 <p align="center">
   <!-- Core frontend badges -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
