@@ -64,7 +64,7 @@ const amadeus = {
 
 ---
 
-## 🏆 Achievements
+<h2 align="center">🌸 Frontend Journey 🌸</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-Senpai-ff69b4?style=for-the-badge" />
