@@ -64,24 +64,24 @@ const amadeus = {
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements — Frontend Edition
 
 <p align="center">
-  <!-- Tokyo Night-themed badges -->
-  <img src="https://img.shields.io/badge/Frontend-7aa2f7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI%2FUX-bb9af7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Creative_Code-7dcfff?style=for-the-badge" />
+  <!-- Role & creative badges -->
+  <img src="https://img.shields.io/badge/Frontend-Developer-7aa2f7?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Designer-bb9af7?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/Creative_Code-7dcfff?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </p>
 
 <p align="center">
-  <
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vscode,git,github" />
+  <!-- Skill icons -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
 </p>
 
 <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Harukie30&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harukie30&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <!-- Stats cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Harukie30&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harukie30&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" height="160" />
 </p>
 
 
