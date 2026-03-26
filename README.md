@@ -67,7 +67,9 @@ const amadeus = {
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Responsive-Web-00c853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-Magic-00b0ff?style=for-the-badge" />
 </p>
 
 <p align="center">
