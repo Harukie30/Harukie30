@@ -67,7 +67,7 @@ const amadeus = {
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harukie30&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Harukie30" alt="GitHub Trophies" />
 </p>
 
 ---
