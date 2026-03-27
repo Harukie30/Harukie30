@@ -42,11 +42,7 @@ const amadeus = {
 
 ---
 
-<h1 align="center">⚡ ATLAS CORE // SYSTEM ONLINE</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Adaptive+Developer+System;Cyberpunk+Build+Mode+Activated;Always+Learning+Always+Shipping" />
-</p>
 
 ---
 
