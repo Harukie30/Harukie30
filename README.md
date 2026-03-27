@@ -42,7 +42,7 @@ const amadeus = {
 
 ---
 
-# 📊 GITHUB SIGNALS
+<h2 align="center">📡 DEVELOPMENT SIGNALS</h2>
 
 <div align="center">
 
@@ -51,6 +51,7 @@ const amadeus = {
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harukie30&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 ---
 
