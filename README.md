@@ -42,7 +42,15 @@ const amadeus = {
 
 ---
 
-<h2 align="center">⚡ Development Signals</h2>
+<h1 align="center">⚡ ATLAS CORE // SYSTEM ONLINE</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Adaptive+Developer+System;Cyberpunk+Build+Mode+Activated;Always+Learning+Always+Shipping" />
+</p>
+
+---
+
+<h2 align="center">📡 Neural Metrics</h2>
 
 <div align="center">
 
@@ -57,6 +65,30 @@ const amadeus = {
 <img src="https://streak-stats.demolab.com?user=Harukie30&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+
+<h2 align="center">⚙️ Tech Arsenal</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,mongodb,git,github,vscode,linux" />
+</p>
+
+---
+
+<h2 align="center">🌌 Activity Grid</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harukie30&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+<h2 align="center">🛰️ Visitor Scan</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harukie30&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
