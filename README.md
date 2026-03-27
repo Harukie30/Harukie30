@@ -50,36 +50,8 @@ const amadeus = {
 
 ---
 
-<h2 align="center">📡 Neural Metrics</h2>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harukie30&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harukie30&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Harukie30&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<h2 align="center">⚙️ Tech Arsenal</h2>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,mongodb,git,github,vscode,linux" />
-</p>
-
----
-
-<h2 align="center">🌌 Activity Grid</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harukie30&theme=tokyo-night&hide_border=true"/>
+  <img src="https://komarev.com/ghpvc/?username=Harukie30&label=SYSTEM%20VISITS&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
