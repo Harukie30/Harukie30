@@ -42,15 +42,19 @@ const amadeus = {
 
 ---
 
-<h2 align="center">📡 DEVELOPMENT SIGNALS</h2>
+<h1 align="center">⚡ SYSTEM STATUS: ONLINE</h1>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harukie30&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Harukie30&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harukie30&theme=tokyonight&hide_border=true&background=0d1117"/>
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harukie30&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harukie30&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</p>
 
 
 ---
