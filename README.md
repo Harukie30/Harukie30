@@ -42,20 +42,8 @@ const amadeus = {
 
 ---
 
-
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harukie30&label=SYSTEM%20VISITS&color=blueviolet&style=for-the-badge" />
-</p>
-
----
-
-<h2 align="center">🛰️ Visitor Scan</h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harukie30&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Harukie30&label=profile%20views&color=1f2937&style=flat-square" />
 </p>
 
 ---
