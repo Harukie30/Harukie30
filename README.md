@@ -91,13 +91,6 @@ const amadeus = {
 
 ---
 
-
-<div align="center">
-  <a href="https://github-trophies.vercel.app/?username=Harukie30&theme=tokyonight&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
-    <img src="https://github-trophies.vercel.app/?username=Harukie30&theme=tokyonight&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=5s" height="350" alt="trophies" width="100%" />
-  </a>
-</div>
-
 ---
 
 # 🐍 CONTRIBUTION SNAKE
