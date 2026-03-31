@@ -89,9 +89,8 @@ const amadeus = {
   <img src="https://streak-stats.demolab.com?user=Harukie30&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
----
+
 
 # 🐍 CONTRIBUTION SNAKE
 
