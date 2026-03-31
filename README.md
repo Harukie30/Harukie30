@@ -42,9 +42,12 @@ const amadeus = {
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harukie30&label=profile%20views&color=1f2937&style=flat-square" />
-</p>
+
+<div align="center">
+  <a href="https://github-trophies.vercel.app/?username=Harukie30&theme=tokyonight&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
+    <img src="https://github-trophies.vercel.app/?username=Harukie30&theme=tokyonight&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=5s" height="350" alt="trophies" width="100%" />
+  </a>
+</div>
 
 ---
 
