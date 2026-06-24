@@ -16,19 +16,18 @@
 # ⚡ SYSTEM PROFILE
 
 
-const amadeus = {
-  role: "Frontend Developer",
-  company: "SMCT Group of Companies",
-  stack: [
+{
+  "role": "Frontend Developer",
+  "company": "SMCT Group of Companies",
+  "stack": [
     "React",
     "Next.js",
     "TypeScript",
     "Tailwind CSS"
   ],
-  currentFocus: "Advanced Frontend Architecture",
-  philosophy: "Clean code. Smooth UX. Consistent systems."
+  "currentFocus": "Advanced Frontend Architecture",
+  "philosophy": "Clean code. Smooth UX. Consistent systems."
 }
-
 ---
 
 # 🛠 TECH MATRIX
