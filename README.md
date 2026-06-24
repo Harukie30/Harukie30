@@ -16,18 +16,11 @@
 # ⚡ SYSTEM PROFILE
 
 
-{
-  "role": "Frontend Developer",
-  "company": "SMCT Group of Companies",
-  "stack": [
-    "React",
-    "Next.js",
-    "TypeScript",
-    "Tailwind CSS"
-  ],
-  "currentFocus": "Advanced Frontend Architecture",
-  "philosophy": "Clean code. Smooth UX. Consistent systems."
-}
+*   **Role:** Frontend Developer
+*   **Company:** SMCT Group of Companies
+*   **Stack:** React • Next.js • TypeScript • Tailwind CSS
+*   **Current Focus:** Advanced Frontend Architecture
+*   **Philosophy:** *"Clean code. Smooth UX. Consistent systems."*
 ---
 
 # 🛠 TECH MATRIX
