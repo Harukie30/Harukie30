@@ -13,24 +13,20 @@
 </div>
 
 ---
+# ⚡ SYSTEM PROFILE
 
-<div align="center">
-  <!-- Glowing Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0f0c29,302b63,24243e&text=AMADEUS&fontSize=60&fontColor=00ffff&animation=fadeIn" width="100%" />
 
-  <!-- Animated Typing Subtitle -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=600&color=00FFFF&lines=Frontend+Developer;Building+Smooth+UX;Advanced+Frontend+Architecture" />
-</div>
-
----
-
-## ⚡ SYSTEM PROFILE
-
-{
-  "role": "Frontend Developer",
-  "company": "SMCT Group of Companies",
-  "currentFocus": "Advanced Frontend Architecture",
-  "philosophy": "Clean code. Smooth UX. Consistent systems."
+const amadeus = {
+  role: "Frontend Developer",
+  company: "SMCT Group of Companies",
+  stack: [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS"
+  ],
+  currentFocus: "Advanced Frontend Architecture",
+  philosophy: "Clean code. Smooth UX. Consistent systems."
 }
 
 ---
