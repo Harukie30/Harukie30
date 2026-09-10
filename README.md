@@ -13,38 +13,51 @@
 </div>
 
 ---
+
 # ⚡ SYSTEM PROFILE
 
+* **Role:** Frontend Developer
+* **Company:** SMCT Group of Companies
+* **Stack:** React • Next.js • TypeScript • Tailwind CSS
+* **Current Focus:** Advanced Frontend Architecture
+* **Philosophy:** *"Clean code. Smooth UX. Consistent systems."*
 
-*   **Role:** Frontend Developer
-*   **Company:** SMCT Group of Companies
-*   **Stack:** React • Next.js • TypeScript • Tailwind CSS
-*   **Current Focus:** Advanced Frontend Architecture
-*   **Philosophy:** *"Clean code. Smooth UX. Consistent systems."*
 ---
 
 # 🛠 TECH MATRIX
 
-# 📈 ACTIVITY STREAM
-
 <div align="center">
 
-<img src="./assets/github-activity.svg" width="100%" alt="GitHub Activity">
+### ⚡ Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+
+<br/><br/>
+
+### 🔧 Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,npm" />
+
+<br/><br/>
+
+### 💻 Core Technologies
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 
 </div>
 
 ---
 
-
-<div align="center">
-  <a href="https://github-trophies.vercel.app/?username=Harukie30&theme=tokyonight&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
-    <img src="https://github-trophies.vercel.app/?username=Harukie30&theme=tokyonight&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=5s" height="350" alt="trophies" width="100%" />
-  </a>
-</div>
-
----
-
-# 📈 ACTIVITY STREAM
+# 📊 GITHUB ACTIVITY
 
 <div align="center">
 
@@ -54,42 +67,57 @@
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hpcmowNTlzOG10NjV1M2gwa2g3aTY0MzB1eXNwbDNlcnc5bHNqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dUB9oUf9a4420PCrbc/giphy.gif" width="15%" />
-</p>
-<p align="center">
-  <!-- Core frontend badges -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+# 🏆 GITHUB TROPHIES
 
-<p align="center">
-  <!-- Framework & tooling badges -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+<div align="center">
 
-<p align="center">
-  <!-- Skill icons for quick glance -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
-</p>
+<a href="https://github-trophies.vercel.app/?username=Harukie30&theme=tokyonight&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
 
+<img src="https://github-trophies.vercel.app/?username=Harukie30&theme=tokyonight&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=5" height="350" width="100%" alt="GitHub trophies" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Harukie30&theme=tokyonight&hide_border=true" />
-</p>
+</a>
 
+</div>
 
+---
 
+# 🏆 ACHIEVEMENTS
+
+<div align="center">
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hpcmowNTlzOG10NjV1M2gwa2g3aTY0MzB1eXNwbDNlcnc5bHNqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dUB9oUf9a4420PCrbc/giphy.gif" width="15%" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Frontend_Developer-00FFFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/UI_Builder-FF00FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/React_Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
+</div>
+
+---
+
+# 🔥 CONTRIBUTION STREAK
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Harukie30&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
 
 # 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
 
 </div>
 
@@ -116,19 +144,19 @@ Responsive build using Next.js + Tailwind CSS.
 <div align="center">
 
 <a href="YOUR_FACEBOOK_LINK">
-<img src="https://img.shields.io/badge/Facebook-00FFFF?style=for-the-badge&logo=facebook&logoColor=black"/>
+<img src="https://img.shields.io/badge/Facebook-00FFFF?style=for-the-badge&logo=facebook&logoColor=black" />
 </a>
 
 <a href="YOUR_INSTAGRAM_LINK">
-<img src="https://img.shields.io/badge/Instagram-ff00ff?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-FF00FF?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-00ffff?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
 
 <a href="mailto:yuukiabella410@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-ff0033?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-FF0033?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
