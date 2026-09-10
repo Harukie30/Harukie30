@@ -25,11 +25,14 @@
 
 # 🛠 TECH MATRIX
 
+# 📈 ACTIVITY STREAM
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,html,css,java,git,github,vscode,prisma,photoshop" />
+<img src="https://YOUR-ACTIVITY-GRAPH.vercel.app/graph?username=Harukie30&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
+
 
 ---
 
