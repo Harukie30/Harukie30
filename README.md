@@ -28,9 +28,10 @@
 # 📈 ACTIVITY STREAM
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harukie30&theme=tokyo-night&hide_border=true&area=true" /> 
-</div>
 
+<img src="./assets/github-activity.svg" width="100%" alt="GitHub Activity">
+
+</div>
 
 ---
 
