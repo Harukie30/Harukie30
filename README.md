@@ -145,7 +145,7 @@ Responsive build using Next.js + Tailwind CSS.
 
 <a href="https://zart-portal.vercel.app/"> <img src="https://img.shields.io/badge/PORTFOLIO-00FFFF?style=for-the-badge&logo=vercel&logoColor=black" /> </a>
 
-<a href="amadeus-mozart-labao-5829a241b"> <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black" /> </a>
+<a href="www.linkedin.com/in/amadeus-mozart-labao-5829a241b"> <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black" /> </a>
 
 <a href="mailto:amadeusmozartlabao@gmail.com"> <img src="https://img.shields.io/badge/Gmail-FF0033?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
