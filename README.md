@@ -143,13 +143,11 @@ Responsive build using Next.js + Tailwind CSS.
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black" />
-</a>
+<a href="https://zart-portal.vercel.app/"> <img src="https://img.shields.io/badge/PORTFOLIO-00FFFF?style=for-the-badge&logo=vercel&logoColor=black" /> </a>
 
-<a href="mailto:yuukiabella410@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-FF0033?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="YOUR_LINKEDIN_LINK"> <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black" /> </a>
+
+<a href="mailto:amadeusmozartlabao@gmail.com"> <img src="https://img.shields.io/badge/Gmail-FF0033?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
 </div>
 
