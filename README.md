@@ -47,7 +47,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harukie30&theme=tokyo-night&hide_border=true&area=true" />
+<img src="./assets/contribution-galaxy.svg" width="100%" alt="GitHub contribution activity">
 
 </div>
 
