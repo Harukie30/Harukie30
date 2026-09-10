@@ -28,9 +28,7 @@
 # 📈 ACTIVITY STREAM
 
 <div align="center">
-
-<img src="https://YOUR-ACTIVITY-GRAPH.vercel.app/graph?username=Harukie30&theme=tokyo-night&hide_border=true&area=true" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harukie30&theme=tokyo-night&hide_border=true&area=true" /> 
 </div>
 
 
