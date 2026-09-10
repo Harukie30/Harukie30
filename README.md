@@ -143,14 +143,6 @@ Responsive build using Next.js + Tailwind CSS.
 
 <div align="center">
 
-<a href="YOUR_FACEBOOK_LINK">
-<img src="https://img.shields.io/badge/Facebook-00FFFF?style=for-the-badge&logo=facebook&logoColor=black" />
-</a>
-
-<a href="YOUR_INSTAGRAM_LINK">
-<img src="https://img.shields.io/badge/Instagram-FF00FF?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
 <a href="YOUR_LINKEDIN_LINK">
 <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
