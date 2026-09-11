@@ -38,6 +38,8 @@
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,npm" />
 
+<img src="https://www.cursor.com/favicon.ico" width="48" height="48" alt="Cursor" />
+
 <br/><br/>
 
 ### 💻 Core Technologies
